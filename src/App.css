@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.box {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  background: ghostwhite;
+  height: 149px;
+  width: 152px;
+  border: 1px solid blue;
+}
+
+.item {
+  height: 50px;
+  width: 50px;
+  border: 1px solid blue;
+  cursor: pointer;
+  font-size: 30px;
+  line-height: normal;
+}
+.game {
+  display: inline-block;
+  text-align: center;
+  width: 154px;
+}
+h1,
+h2 {
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold;
+}
+h1 {
+  color: black;
+}
+h2 {
+  font-size: 16px;
+  color: green;
+}
