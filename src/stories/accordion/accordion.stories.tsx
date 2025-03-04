@@ -37,8 +37,7 @@ export const Default: Story = {
       <AccordionItem value="item-3">
         <AccordionTrigger>Is it animated?</AccordionTrigger>
         <AccordionContent>
-          Yes. It&apos;s animated by default, but you can disable it if you
-          prefer.
+          Yes. it&apos;s animated by amit, but you can disable it if you prefer.
         </AccordionContent>
       </AccordionItem>
     </Accordion>
